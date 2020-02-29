@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape
+            android:shape="rectangle">
+            <gradient
+                android:startColor="#8601d5"
+                android:endColor="#7f6fc0"
+                android:type="radial"
+                android:gradientRadius="50%"
+                android:centerY="40%"/>
+        </shape>
+    </item>
+
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/pen_icon" />
+    </item>
+</layer-list>

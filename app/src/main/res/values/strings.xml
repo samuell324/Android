@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My favorite note book v2</string>
+    <string name="action_settings">Draw</string>
+    <string name="new_title">Add title</string>
+    <string name="new_title2">Add text</string>
+    <string name="save">Save</string>
+    <string name="saved">Note Saved</string>
+    <string name="not_saved">Couldn\'t Save</string>
+    <string name="no_note">No notes</string>
+    <string name="note">Update Note</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="updated">Note Updated</string>
+
+    //For drawingView
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save_paint">Save</string>
+    <string name="paint">Paint</string>
+
+    //Attach to note
+
+    <string-array name="attach_to_note">
+        <item>Select from gallery</item>
+        <item>Take a photo</item>
+    </string-array>
+</resources>
